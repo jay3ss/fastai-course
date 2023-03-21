@@ -1,0 +1,6 @@
+duckduckgo_search
+ipython
+torch
+torchvision
+torchaudio
+fastai
